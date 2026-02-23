@@ -24,12 +24,12 @@ No menu lateral, clique em **Devices** para visualizar os dispositivos cadastrad
 ### Adicionar novo dispositivo
 
 Clique no botão **+ Add device** no canto superior direito.
-![Passo 2](images/passo2.png)
+![Passo 2](images/passo 2.png)
 Na janela que abrir:
 - Preencha o campo **Name** (ex: ESP01)
 - Mantenha o **Device profile** como `default`
 - Clique em **Add**
-![Passo 3](images/passo3.png)
+![Passo 3](images/passo 3.png)
 
 
 ---
@@ -46,7 +46,7 @@ Esse **token** será utilizado no código do ESP-01 para autenticação na plata
 Após a criação, o dispositivo aparecerá na lista com o status **Active**.
 Isso indica que o dispositivo está cadastrado corretamente e pronto para receber dados.
 
-![Passo 4](images/passo4.png)
+![Passo 4](images/passo 4.png)
 
 ---
 ## Importante
